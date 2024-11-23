@@ -1,0 +1,98 @@
+2024-11-23 04:15:12,572 - INFO - Starting new scan...
+2024-11-23 04:15:12,572 - INFO - Searching for tokens with keyword: pepe
+2024-11-23 04:15:14,423 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:15:15,684 - INFO - Searching for tokens with keyword: doge
+2024-11-23 04:15:16,967 - INFO - Searching for tokens with keyword: shib
+2024-11-23 04:15:18,225 - INFO - Searching for tokens with keyword: floki
+2024-11-23 04:15:19,565 - INFO - Searching for tokens with keyword: inu
+2024-11-23 04:15:20,936 - INFO - Searching for tokens with keyword: elon
+2024-11-23 04:15:22,890 - INFO - Searching for tokens with keyword: moon
+2024-11-23 04:15:24,955 - INFO - Searching for tokens with keyword: safe
+2024-11-23 04:15:26,197 - INFO - Searching for tokens with keyword: chad
+2024-11-23 04:15:27,889 - INFO - Searching for tokens with keyword: based
+2024-11-23 04:15:29,148 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:15:30,177 - INFO - Searching for tokens with keyword: meme
+2024-11-23 04:15:31,425 - INFO - Saved 69 tokens to memecoin_data.csv
+2024-11-23 04:15:31,426 - INFO - Scan complete. Found 69 potential tokens.
+2024-11-23 04:15:31,427 - INFO - Waiting 5 minutes before next scan...
+2024-11-23 04:16:29,860 - INFO - Monitoring stopped by user.
+2024-11-23 04:16:40,413 - INFO - Starting new scan...
+2024-11-23 04:16:40,413 - INFO - Searching for tokens with keyword: pepe
+2024-11-23 04:16:41,935 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:16:45,049 - INFO - Searching for tokens with keyword: doge
+2024-11-23 04:16:46,219 - INFO - Searching for tokens with keyword: shib
+2024-11-23 04:16:47,508 - INFO - Searching for tokens with keyword: floki
+2024-11-23 04:16:48,780 - INFO - Searching for tokens with keyword: inu
+2024-11-23 04:16:50,343 - INFO - Searching for tokens with keyword: elon
+2024-11-23 04:16:51,575 - INFO - Searching for tokens with keyword: moon
+2024-11-23 04:16:53,194 - INFO - Searching for tokens with keyword: safe
+2024-11-23 04:16:54,517 - INFO - Searching for tokens with keyword: chad
+2024-11-23 04:16:55,792 - INFO - Searching for tokens with keyword: based
+2024-11-23 04:16:57,084 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:16:58,116 - INFO - Searching for tokens with keyword: meme
+2024-11-23 04:16:59,513 - INFO - Saved 69 tokens to memecoin_data.csv
+2024-11-23 04:16:59,514 - INFO - Scan complete. Found 69 potential tokens.
+2024-11-23 04:16:59,514 - INFO - Waiting 5 minutes before next scan...
+2024-11-23 04:18:53,082 - INFO - Monitoring stopped by user.
+2024-11-23 04:25:57,172 - INFO - Starting new scan...
+2024-11-23 04:25:57,172 - INFO - Searching for tokens with keyword: pepe
+2024-11-23 04:25:58,835 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:26:00,089 - INFO - Searching for tokens with keyword: doge
+2024-11-23 04:26:01,326 - INFO - Searching for tokens with keyword: shib
+2024-11-23 04:26:02,557 - INFO - Searching for tokens with keyword: floki
+2024-11-23 04:26:03,843 - INFO - Searching for tokens with keyword: inu
+2024-11-23 04:26:05,153 - INFO - Searching for tokens with keyword: elon
+2024-11-23 04:26:06,439 - INFO - Searching for tokens with keyword: moon
+2024-11-23 04:26:07,723 - INFO - Searching for tokens with keyword: safe
+2024-11-23 04:26:10,341 - INFO - Searching for tokens with keyword: chad
+2024-11-23 04:26:11,559 - INFO - Searching for tokens with keyword: based
+2024-11-23 04:26:13,104 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:26:14,133 - INFO - Searching for tokens with keyword: meme
+2024-11-23 04:26:15,416 - INFO - Searching for tokens with keyword: guy
+2024-11-23 04:26:16,926 - INFO - Searching for tokens with keyword: chill
+2024-11-23 04:26:18,479 - INFO - Searching for tokens with keyword: bara
+2024-11-23 04:26:19,829 - INFO - Saved 74 tokens to memecoin_data.csv
+2024-11-23 04:26:19,830 - INFO - Scan complete. Found 74 potential tokens.
+2024-11-23 04:26:19,831 - INFO - Waiting 5 minutes before next scan...
+2024-11-23 04:26:28,847 - INFO - Monitoring stopped by user.
+2024-11-23 04:40:11,704 - ERROR - Error removing memecoin_monitor.log: [WinError 32] The process cannot access the file because it is being used by another process: 'memecoin_monitor.log'
+2024-11-23 04:40:11,705 - INFO - All data files cleaned
+2024-11-23 04:40:11,706 - INFO - Starting new scan...
+2024-11-23 04:40:11,706 - INFO - Searching for tokens with keyword: pepe
+2024-11-23 04:40:13,267 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:40:14,451 - INFO - Searching for tokens with keyword: doge
+2024-11-23 04:40:15,514 - INFO - Searching for tokens with keyword: shib
+2024-11-23 04:40:16,572 - INFO - Searching for tokens with keyword: floki
+2024-11-23 04:40:17,634 - INFO - Searching for tokens with keyword: inu
+2024-11-23 04:40:18,696 - INFO - Searching for tokens with keyword: elon
+2024-11-23 04:40:19,755 - INFO - Searching for tokens with keyword: moon
+2024-11-23 04:40:20,823 - INFO - Searching for tokens with keyword: safe
+2024-11-23 04:40:21,882 - INFO - Searching for tokens with keyword: chad
+2024-11-23 04:40:22,956 - INFO - Searching for tokens with keyword: based
+2024-11-23 04:40:24,016 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:40:25,047 - INFO - Searching for tokens with keyword: meme
+2024-11-23 04:40:26,111 - INFO - Saved 70 tokens to memecoin_data.csv
+2024-11-23 04:40:26,113 - INFO - Scan complete. Found 70 potential tokens.
+2024-11-23 04:40:26,113 - INFO - Waiting 5 minutes before next scan...
+2024-11-23 04:40:30,440 - INFO - Monitoring stopped by user.
+2024-11-23 04:42:45,415 - INFO - Starting new scan...
+2024-11-23 04:42:45,415 - INFO - Searching for tokens with keyword: pepe
+2024-11-23 04:42:47,151 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:42:49,293 - INFO - Searching for tokens with keyword: doge
+2024-11-23 04:42:50,791 - INFO - Searching for tokens with keyword: shib
+2024-11-23 04:42:52,077 - INFO - Searching for tokens with keyword: floki
+2024-11-23 04:42:53,313 - INFO - Searching for tokens with keyword: inu
+2024-11-23 04:42:54,496 - INFO - Searching for tokens with keyword: elon
+2024-11-23 04:42:55,977 - INFO - Searching for tokens with keyword: moon
+2024-11-23 04:42:57,470 - INFO - Searching for tokens with keyword: safe
+2024-11-23 04:42:59,229 - INFO - Searching for tokens with keyword: chad
+2024-11-23 04:43:00,483 - INFO - Searching for tokens with keyword: based
+2024-11-23 04:43:01,864 - INFO - Searching for tokens with keyword: wojak
+2024-11-23 04:43:02,894 - INFO - Searching for tokens with keyword: meme
+2024-11-23 04:43:04,423 - INFO - Searching for tokens with keyword: chill
+2024-11-23 04:43:06,033 - INFO - Searching for tokens with keyword: guy
+2024-11-23 04:43:07,469 - INFO - Searching for tokens with keyword: bara
+2024-11-23 04:43:09,067 - INFO - Saved 149 tokens to memecoin_data.csv
+2024-11-23 04:43:09,069 - INFO - Scan complete. Found 149 potential tokens.
+2024-11-23 04:43:09,069 - INFO - Waiting 5 minutes before next scan...
+2024-11-23 04:43:11,652 - INFO - Monitoring stopped by user.
